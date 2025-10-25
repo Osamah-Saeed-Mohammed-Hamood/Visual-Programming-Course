@@ -1,0 +1,28 @@
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\bin\Debug\Draw.exe.config
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\bin\Debug\Draw.exe
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\bin\Debug\Draw.pdb
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\obj\Debug\Draw.csproj.AssemblyReference.cache
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\obj\Debug\Draw.Form1.resources
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\obj\Debug\Draw.Properties.Resources.resources
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\obj\Debug\Draw.exe
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\obj\Debug\Draw.pdb
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\obj\Debug\Draw.Form2.resources
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\obj\Debug\Draw.Form3.resources
+D:\IT\Level 3\الاستاذ نجم\المحاضرات\Draw\obj\Debug\Draw.Form4.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\bin\Debug\Draw.exe.config
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\bin\Debug\Draw.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\bin\Debug\Draw.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\obj\Debug\Draw.csproj.AssemblyReference.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\obj\Debug\Draw.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\obj\Debug\Draw.Form1.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\obj\Debug\Draw.Form2.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\obj\Debug\Draw.Form3.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\obj\Debug\Draw.Form4.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\obj\Debug\Draw.Properties.Resources.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\obj\Debug\Draw.csproj.GenerateResource.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\obj\Debug\Draw.csproj.CoreCompileInputs.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\obj\Debug\Draw.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الحادي عشر\Draw\obj\Debug\Draw.pdb

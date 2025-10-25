@@ -1,0 +1,24 @@
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\bin\Debug\المشروع العاشر.exe.config
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\bin\Debug\المشروع العاشر.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\bin\Debug\المشروع العاشر.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\obj\Debug\المشروع العاشر.csproj.AssemblyReference.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\obj\Debug\المشروع العاشر.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\obj\Debug\المشروع_العاشر.Form1.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\obj\Debug\المشروع_العاشر.Properties.Resources.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\obj\Debug\المشروع العاشر.csproj.GenerateResource.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\obj\Debug\المشروع العاشر.csproj.CoreCompileInputs.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\obj\Debug\المشروع العاشر.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\obj\Debug\المشروع العاشر.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\obj\Debug\المشروع_العاشر.Form2.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\المشروع العاشر\obj\Debug\المشروع العاشر.csproj.AssemblyReference.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\المشروع العاشر\obj\Debug\المشروع العاشر.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\المشروع العاشر\obj\Debug\المشروع_العاشر.Form1.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\المشروع العاشر\obj\Debug\المشروع_العاشر.Form2.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\المشروع العاشر\obj\Debug\المشروع_العاشر.Properties.Resources.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\المشروع العاشر\obj\Debug\المشروع العاشر.csproj.GenerateResource.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\المشروع العاشر\obj\Debug\المشروع العاشر.csproj.CoreCompileInputs.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\المشروع العاشر\obj\Debug\المشروع العاشر.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\المشروع العاشر\obj\Debug\المشروع العاشر.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\المشروع العاشر\bin\Debug\المشروع العاشر.exe.config
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\المشروع العاشر\bin\Debug\المشروع العاشر.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع العاشر\المشروع العاشر\bin\Debug\المشروع العاشر.pdb

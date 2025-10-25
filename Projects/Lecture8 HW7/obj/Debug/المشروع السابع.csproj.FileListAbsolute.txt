@@ -1,0 +1,26 @@
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\bin\Debug\المشروع السابع.exe.config
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\bin\Debug\المشروع السابع.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\bin\Debug\المشروع السابع.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\obj\Debug\المشروع السابع.csproj.AssemblyReference.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\obj\Debug\المشروع السابع.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\obj\Debug\المشروع_السابع.Form1.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\obj\Debug\المشروع_السابع.Properties.Resources.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\obj\Debug\المشروع السابع.csproj.GenerateResource.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\obj\Debug\المشروع السابع.csproj.CoreCompileInputs.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\obj\Debug\المشروع السابع.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\obj\Debug\المشروع السابع.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\obj\Debug\المشروع_السابع.Form2.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\obj\Debug\المشروع_السابع.Form3.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\bin\Debug\المشروع السابع.exe.config
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\bin\Debug\المشروع السابع.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\bin\Debug\المشروع السابع.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\obj\Debug\المشروع السابع.csproj.AssemblyReference.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\obj\Debug\المشروع السابع.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\obj\Debug\المشروع_السابع.Form1.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\obj\Debug\المشروع_السابع.Form2.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\obj\Debug\المشروع_السابع.Form3.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\obj\Debug\المشروع_السابع.Properties.Resources.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\obj\Debug\المشروع السابع.csproj.GenerateResource.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\obj\Debug\المشروع السابع.csproj.CoreCompileInputs.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\obj\Debug\المشروع السابع.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع السابع\المشروع السابع\obj\Debug\المشروع السابع.pdb

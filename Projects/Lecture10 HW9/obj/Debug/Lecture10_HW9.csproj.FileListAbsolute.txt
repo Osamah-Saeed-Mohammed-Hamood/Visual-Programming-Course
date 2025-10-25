@@ -1,0 +1,34 @@
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\bin\Debug\Lecture10_HW9.exe.config
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\bin\Debug\Lecture10_HW9.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\bin\Debug\Lecture10_HW9.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.csproj.AssemblyReference.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.Form1.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.Properties.Resources.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.csproj.GenerateResource.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.csproj.CoreCompileInputs.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\bin\Debug\stdole.dll
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.csproj.CopyComplete
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.MainForm.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.Form3.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.Form4.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\Lecture10_HW9\obj\Debug\Lecture10_HW9.Form5.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\bin\Debug\Lecture10_HW9.exe.config
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\bin\Debug\Lecture10_HW9.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\bin\Debug\Lecture10_HW9.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\bin\Debug\stdole.dll
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.csproj.AssemblyReference.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.Form1.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.MainForm.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.Form3.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.Form4.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.Form5.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.Properties.Resources.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.csproj.GenerateResource.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.csproj.CoreCompileInputs.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.csproj.CopyComplete
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع التاسع\Lecture10_HW9\obj\Debug\Lecture10_HW9.pdb

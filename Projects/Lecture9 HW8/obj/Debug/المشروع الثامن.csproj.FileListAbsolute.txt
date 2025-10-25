@@ -1,0 +1,26 @@
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\bin\Debug\المشروع الثامن.exe.config
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\bin\Debug\المشروع الثامن.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\bin\Debug\المشروع الثامن.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\obj\Debug\المشروع الثامن.csproj.AssemblyReference.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\obj\Debug\المشروع الثامن.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\obj\Debug\المشروع_الثامن.Form1.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\obj\Debug\المشروع_الثامن.Properties.Resources.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\obj\Debug\المشروع الثامن.csproj.GenerateResource.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\obj\Debug\المشروع الثامن.csproj.CoreCompileInputs.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\obj\Debug\المشروع الثامن.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\obj\Debug\المشروع الثامن.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\obj\Debug\المشروع_الثامن.Form2.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\obj\Debug\المشروع_الثامن.Form3.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\bin\Debug\المشروع الثامن.exe.config
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\bin\Debug\المشروع الثامن.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\bin\Debug\المشروع الثامن.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\obj\Debug\المشروع الثامن.csproj.AssemblyReference.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\obj\Debug\المشروع الثامن.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\obj\Debug\المشروع_الثامن.Form1.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\obj\Debug\المشروع_الثامن.Form2.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\obj\Debug\المشروع_الثامن.Form3.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\obj\Debug\المشروع_الثامن.Properties.Resources.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\obj\Debug\المشروع الثامن.csproj.GenerateResource.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\obj\Debug\المشروع الثامن.csproj.CoreCompileInputs.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\obj\Debug\المشروع الثامن.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\المشروع الثامن\المشروع الثامن\obj\Debug\المشروع الثامن.pdb

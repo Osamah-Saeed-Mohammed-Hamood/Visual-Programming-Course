@@ -1,0 +1,15 @@
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\bin\Debug\Lecture3Hw.exe.config
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\bin\Debug\Lecture3Hw.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\bin\Debug\Lecture3Hw.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\obj\Debug\Lecture3Hw.csproj.AssemblyReference.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\obj\Debug\Lecture3Hw.csproj.SuggestedBindingRedirects.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\obj\Debug\Lecture3Hw.Form1.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\obj\Debug\Lecture3Hw.Properties.Resources.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\obj\Debug\Lecture3Hw.csproj.GenerateResource.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\obj\Debug\Lecture3Hw.csproj.CoreCompileInputs.cache
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\obj\Debug\Lecture3Hw.exe
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\obj\Debug\Lecture3Hw.pdb
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\obj\Debug\Lecture3Hw.Form2.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\obj\Debug\Lecture3Hw.Form3.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\obj\Debug\Lecture3Hw.Form4.resources
+D:\IT\Level 3\الاستاذ نجم\الواجبات\واجب المحاضرة الثالثة\Lecture3Hw\obj\Debug\Lecture3Hw.Form5.resources
